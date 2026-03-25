@@ -6,7 +6,7 @@ Clean and prepare the data
 
 Engineer features (distance, time of day, etc.)
 
-Statistical thinking, 
+Statistical thinking 
 
 Build regression models (linear regression, random forest, etc.)
 
