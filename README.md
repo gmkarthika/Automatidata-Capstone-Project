@@ -1,6 +1,15 @@
-The Automatodata capstone project focuses on analyzing a used‑car dataset and building a model to predict vehicle prices. The project walks through the full analytics workflow: 
-Data Cleaning, 
-EDA (Exploratory Data Analysis), 
+Automatidata is a fictional company usedto simulate real‑world analytics work to predict taxi fare for NYC taxi trips.The project walks through the full analytics workflow: 
+
+Explore the taxi dataset(EDA)
+
+Clean and prepare the data
+
+Engineer features (distance, time of day, etc.)
+
 Statistical thinking, 
-Machine‑learning model development and 
-Model Optimization. 
+
+Build regression models (linear regression, random forest, etc.)
+
+Evaluate model performance and model Optimization
+
+Present insights to Automatidata stakeholders
